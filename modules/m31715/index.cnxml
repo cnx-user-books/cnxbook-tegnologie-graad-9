@@ -1,0 +1,451 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om die meganiese voordeel van 'n hidrouliese stelsel te bereken</title>
+  <metadata>
+  <md:content-id>m31715</md:content-id><md:title>Om die meganiese voordeel van 'n hidrouliese stelsel te bereken</md:title>
+  <md:abstract/>
+  <md:uuid>d9121766-9583-42c5-b4ba-01e826215ea5</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166261439447">TEGNOLOGIE </para>
+    <para id="id1166261305185">Graad 9</para>
+    <para id="id1166260938769">HIDROULIESE EN PNEUMATIESE STELSELS</para>
+    <para id="id1166261859695">Module 11</para>
+    <para id="id1166262393128">Om die meganiese voordeel van ’n hidrouliese stelsel te bereken</para>
+    <para id="id3269502">Aktiwiteit 1: </para>
+    <para id="id1166265315503">Om die meganiese voordeel van ’n hidrouliese stelsel te bereken</para>
+    <para id="id4868606">[LU 2.3] </para>
+    <para id="id1166262094346">’n Voorbeeld van ’n eenvoudige hidrouliese stelsel is ’n hidrouliese hyser om motors mee op te lig. Die stelsel het ’n meganiese voordeel van beide kraglewering en afstandlewering.</para>
+    <figure id="id3625982">
+      <media id="id3625982_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-fbc1.png" id="id3625982__onlineimage" height="394" width="615"/>
+      </media>
+    </figure>
+    <para id="id1166261331794">Die stelsel bestaan uit twee suiers van verskillende groottes verbind met ’n reservoir, gevul met ’n hidrouliese vloeistof soos olie of water.</para>
+    <para id="id1166264711635">Meganiese voordeel – kraglewering:</para>
+    <para id="id1166261247229">’n Klein insetkrag op die klein suier veroorsaak altyd ’n groot uitsetkrag op die groot suier sodat daar ’n meganiese voordeel is. </para>
+    <para id="id1166261320998">Die insetkrag word die mag genoem en die uitsetkrag die las. </para>
+    <para id="id1166265101712">Die voordeel word moontlik gemaak deur die eienskap van ’n vloeistof dat dit nie saamgepers kan word nie en druk eweredig versprei.</para>
+    <para id="id1166260713193">Hierdie beginsel staan bekend as Pascal se beginsel.</para>
+    <para id="id1166261874166">Die druk by suier A is gelyk aan die druk by suier B.</para>
+    <para id="id1166258424500">Druk word bereken as krag per oppervlakte.</para>
+    <equation id="id1166258456981">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mtable>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>Druk</m:mtext>
+                              <m:mi/>
+                              <m:mtext>silinder</m:mtext>
+                              <m:mi/>
+                              <m:mrow>
+                                <m:mi>A</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mtext>Druk</m:mtext>
+                              </m:mrow>
+                              <m:mi/>
+                              <m:mtext>silinder</m:mtext>
+                              <m:mi/>
+                              <m:mi>B</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>Krag</m:mtext>
+                              <m:mi/>
+                              <m:mi>A</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>Oppervlak</m:mtext>
+                              <m:mi/>
+                              <m:mi>A</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>Krag</m:mtext>
+                              <m:mi/>
+                              <m:mi>B</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>Oppervlak</m:mtext>
+                              <m:mi/>
+                              <m:mi>B</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+              </m:mtable>
+              <m:mrow/>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ size 11{"Druk"`"silinder"`A="Druk"`"silinder"`B}}  {} # 
+ {  { size 11{"Krag"`A}}  over  { size 11{"Oppervlak"`A}} } = {  { size 11{"Krag"`B}}  over  { size 11{"Oppervlak"`B}} }  {} 
+} } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="id1166259732392">Om die meganiese voordeel te bereken, kan jy die volgende formule gebruik:</para>
+    <equation id="id4428457">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mstyle fontsize="11pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>Meganiese</m:mtext>
+                      <m:mi/>
+                      <m:mtext>krag</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mtext>voordeel</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mtext>las</m:mtext>
+                          <m:mtext>mag</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ size 11{"Meganiese"`"krag"`"voordeel"= {  {"las"}  over  {"mag"} } }} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="id1166261414584">Meganiese voordeel – afstandlewering:</para>
+    <para id="id1166261700728">In die spuite sal die suier met die groot deursnee, ’n klein afstandlewering hê en die suier met die klein deursnee, ’n groot afstandlewering. Die verhouding van afstandlewering word bepaal deur die meganiese kragvoordeel.</para>
+    <para id="id1166262330573">Voorbeeld:</para>
+    <para id="id4295050">Die motor in bogenoemde voorbeeld het ’n gewig van 5000 N. Die klein suier, A het ’n oppervlak van 1 cm2 en die groot suier, B het ’n oppervlak van 100 cm2. Die klein suier beweeg oor ’n afstand van 100 cm.</para>
+    <figure id="id1166261223232">
+      <media id="id1166261223232_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-234b.png" id="id1166261223232__onlineimage" height="317" width="577"/>
+      </media>
+    </figure>
+    <para id="id1166258329022">(a)  Bepaal die insetkrag (mag). Volgens Pascal se beginsel sal:</para>
+    <para id="id4498404">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mtable>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>Druk</m:mtext>
+                              <m:mi/>
+                              <m:mrow>
+                                <m:mtext>silinder A</m:mtext>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mtext>Druk</m:mtext>
+                              </m:mrow>
+                              <m:mi/>
+                              <m:mtext>silinder B</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mtext>Krag A</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mtext>Oppervlak A</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mtext>Krag B</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mtext>Oppervlak B</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mstyle fontsize="11pt">
+                        <m:mrow>
+                          <m:mtext>Krag A</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mstyle fontsize="11pt">
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mfrac>
+                    <m:mstyle fontsize="11pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow/>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mtext>5 000 N</m:mtext>
+                            <m:mtext>100</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontsize="11pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mtext>Krag A</m:mtext>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>50 N</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+              </m:mtable>
+              <m:mrow/>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ size 11{"Druk"`"silinder A"="Druk"`"silinder B"}}  {} # 
+ {} # 
+ {  { size 11{"Krag A"}}  over  { size 11{"Oppervlak A"}} } = {  { size 11{"Krag B"}}  over  { size 11{"Oppervlak B"}} }  {} # 
+ {} # 
+ {  { size 11{"Krag A"} }  over  { size 11{1} } }  size 11{ {}= {  {"5 000 N"}  over  {"100"} } } {} # 
+ {} # 
+ size 11{"Krag A"="50 N"} {} 
+} } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <para id="id1166261888204">Die oppervlak by silinder B is 100 x kleiner. Daarom is die krag by silinder A 100 keer kleiner.</para>
+    <para id="id1166258774408">(b) Bepaal die meganiese kragvoordeel.</para>
+    <equation id="id1166261609629">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mtable>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>MA</m:mtext>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mtext>las</m:mtext>
+                                <m:mtext>mag</m:mtext>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontsize="11pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow/>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mtext>5 000</m:mtext>
+                            <m:mtext>50</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontsize="11pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow/>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>100</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+              </m:mtable>
+              <m:mrow/>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ size 11{"MA"= {  {"las"}  over  {"mag"} } }}  {} # 
+ {} # 
+ size 11{ {}= {  {"5 000"}  over  {"50"} } } {} # 
+ {} # 
+ size 11{ {}="100"} {} 
+} } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="id3827454">(c) Bepaal die afstand wat die groot suier gaan beweeg.</para>
+    <para id="id1166261595563">MA= 100. As die klein suier dus 100 cm beweeg, sal die groot suier 1 cm beweeg.</para>
+    <para id="id1166260435591">Toets Jou Kennis</para>
+    <para id="id1166260692834">’n Klein seuntjie kry ’n Kisduiweltjie (Jack-in-the-box), soos in die skets aangedui, by sy ouma. </para>
+    <para id="id7266831">
+      <figure id="id1166258329663">
+        <media id="id1166258329663_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-2a66.png" id="id1166258329663__onlineimage" height="300" width="650"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id4013703">1.1 Bereken die hoeveelheid krag, in newton, wat die seuntjie benodig om die Kisduiweltjie (Jack-in-the-box) van 100 g te laat uitskiet, wanneer die oppervlak by silinder A, 2 cm2 is en die oppervlak by silinder B, 1 cm2 is.</para>
+    <para id="id1166260429883"/>
+    <para id="id1166267668358">1.2 Bereken die meganiese voordeel in vraag 1.1</para>
+    <para id="id1166262993936"/>
+    <para id="id1166261319153">1.3 Bereken die afstand wat silinder A moet beweeg om die Kisduiweltjie (Jack-in-the-box) 3 cm te laat uitskiet.</para>
+    <para id="id1166261384426"/>
+    <para id="id1166261713583"> 1.4 Sou dit meer voordelig wees om die twee suiers, A en B, om te ruil?</para>
+    <para id="id1166264701449"> Jy moet ’n hidrouliese tang maak, soos in die skets aangedui. Om die opdrag uit te voer, ontvang jy twee silinders met suiers van 2 cm en 1 cm deursnee, onderskeidelik. Die maksimum afstand wat die groter suier in die silinder kan beweeg is 3 cm. ’n Krag van 1 N word aangewend om die bewegende kaak van die tang oor ’n afstand van 3 cm te beweeg en sodoende die tang toe te knyp.</para>
+    <figure id="id1166260435379">
+      <media id="id1166260435379_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-270e.png" id="id1166260435379__onlineimage" height="177" width="650"/>
+      </media>
+    </figure>
+    <para id="id1166258438364"/>
+    <para id="id1166264674808">2.1 Watter een van die twee suiers gaan jy by posisie A, vir ’n minimum krag-inset plaas? Verduidelik jou antwoord.</para>
+    <para id="id1166264549393"/>
+    <para id="id7170424"/>
+    <para id="id1166259622363">2.2 Hoe ver sal die suier by silinder A beweeg?</para>
+    <para id="id1166260562273">Assessering</para>
+    <table id="id1166260449123" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>LU 2</entry>
+          </row>
+          <row>
+            <entry>Tegnologiese Kennis en BegripDie leerder is in staat om relevante tegnologiese kennis te verstaan en dit eties en verantwoordelik toe te pas.</entry>
+          </row>
+          <row>
+            <entry>Dit is duidelik wanneer die leerder:</entry>
+          </row>
+          <row>
+            <entry>stelsels en beheer:2.3 deur praktiese analise, kennis en begrip van interaktiewe meganiese sisteme en subsisteme demonstreer en sulke sisteme en subsisteme met diagrammatiese sisteemdiagramme voorstel:</entry>
+          </row>
+          <row>
+            <entry>ratstelsels;</entry>
+          </row>
+          <row>
+            <entry>bandaangedrewe of katrolstelsels met meer as een stadium;</entry>
+          </row>
+          <row>
+            <entry>pneumatiese of hidroliese stelsels wat beperkers gebruik;</entry>
+          </row>
+          <row>
+            <entry>eenrigtingkleppe;</entry>
+          </row>
+          <row>
+            <entry>stelsels waar meganiese, elektriese, pneumatiese of hidroliese stelsels gekombineer word.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1166265014843">Memorandum</para>
+    <para id="id1166259573870">AKTIWITEIT 1</para>
+    <para id="id3458715">1.1 KRAG = 2 N</para>
+    <para id="id1166258841721">1.2 MA=1/2</para>
+    <para id="id1166261789235">1.3 1,5 cm</para>
+    <para id="id1166258502583">1.4 Nee, die klein suier sal die verste beweeg en Jack die hoogste laat spring.</para>
+    <para id="id1166262789870">2.1 Die suier met ‘n 1 cm-deursnee.</para>
+    <para id="id1166260893814">2.2 1,5 cm</para>
+  </content>
+</document>
