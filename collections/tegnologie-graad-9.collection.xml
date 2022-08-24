@@ -1,3 +1,41 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11070</md:content-id>  <md:title>Tegnologie Graad 9</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>af</md:language>              <md:uuid>4c2181df-8a9f-46f6-b4c5-9690ab37ef87</md:uuid>
-<md:slug>tegnologie-graad-9</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m25247"/>                            <col:module document="m25249"/>                            <col:module document="m25250"/>                            <col:module document="m25254"/>                            <col:module document="m25255"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m25264"/>                            <col:module document="m25265"/>                            <col:module document="m25267"/>                            <col:module document="m25263"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartale 3 en 4</md:title>                                <col:content>                    <col:module document="m31709"/>                            <col:module document="m31715"/>                            <col:module document="m31718"/>                            <col:module document="m31719"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11070</md:content-id>
+    <md:title>Tegnologie Graad 9</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>af</md:language>
+    <md:uuid>4c2181df-8a9f-46f6-b4c5-9690ab37ef87</md:uuid>
+    <md:slug>tegnologie-graad-9</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m25247"/>
+        <col:module document="m25249"/>
+        <col:module document="m25250"/>
+        <col:module document="m25254"/>
+        <col:module document="m25255"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m25264"/>
+        <col:module document="m25265"/>
+        <col:module document="m25267"/>
+        <col:module document="m25263"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartale 3 en 4</md:title>
+      <col:content>
+        <col:module document="m31709"/>
+        <col:module document="m31715"/>
+        <col:module document="m31718"/>
+        <col:module document="m31719"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
